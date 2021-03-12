@@ -22,7 +22,6 @@ public class StringSplit {
         String[] arr = solution("Hello World");
         for (String s : arr) {
             System.out.println(s);
-            System.out.println("Some changes");
         }
     }
 }
